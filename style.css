@@ -1,0 +1,40 @@
+
+body {
+  font-family: sans-serif;
+  background-color: #BBBBBB;
+  font-size: 14px;
+}
+
+#container {
+  padding-top: 20px;
+  text-align: center;
+  width: 260px;
+  height: 210px;
+  margin: 0 auto;
+  margin-top: 20px;
+  background: white;
+  border-radius: 25px;
+}
+
+#results-container1,  
+#results-container2,
+#results-container3 {
+  padding: 10px 10px;
+  margin: 10px 10px;
+  border: 1px solid black;
+  border-radius: 15px;
+}
+
+#results-container3 {
+  color: red;
+}
+
+h1 {
+
+  font-size: 1.5em;
+  margin: 0;
+  margin-bottom: 10px;
+  display: inline-block;
+  margin-right: 1em;
+}
+
